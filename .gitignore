@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But not these
+!modules/
+!modules/**
+!README.md
+!LICENSE
+!.gitignore
+
+# Ignore Python compiled files inside allowed directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
