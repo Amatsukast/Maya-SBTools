@@ -5,6 +5,7 @@
 !modules/
 !modules/**
 !README.md
+!CHANGELOG.md
 !LICENSE
 !.gitignore
 
